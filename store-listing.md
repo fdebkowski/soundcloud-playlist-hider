@@ -36,10 +36,10 @@ FEATURES
 • Lightweight — no frameworks, no trackers, ~5 KB total
 
 PRIVACY
-No data is collected or transmitted. The only thing stored locally is your on/off preference. Full privacy policy: https://github.com/rewoniasty/soundcloud-playlist-hider/blob/main/PRIVACY.md
+No data is collected or transmitted. The only thing stored locally is your on/off preference. Full privacy policy: https://github.com/fdebkowski/soundcloud-playlist-hider/blob/main/PRIVACY.md
 
 OPEN SOURCE
-Source code is available on GitHub: https://github.com/rewoniasty/soundcloud-playlist-hider
+Source code is available on GitHub: https://github.com/fdebkowski/soundcloud-playlist-hider
 ```
 
 ---
@@ -61,14 +61,14 @@ English
 
 ## Privacy Policy URL
 ```
-https://github.com/rewoniasty/soundcloud-playlist-hider/blob/main/PRIVACY.md
+https://github.com/fdebkowski/soundcloud-playlist-hider/blob/main/PRIVACY.md
 ```
 
 ---
 
 ## Homepage URL (optional)
 ```
-https://github.com/rewoniasty/soundcloud-playlist-hider
+https://github.com/fdebkowski/soundcloud-playlist-hider
 ```
 
 ---
@@ -108,7 +108,7 @@ This extension hides "posted a playlist" feed items on soundcloud.com/feed to re
 
 ## Checklist before submitting
 
-- [ ] Replace all `rewoniasty` placeholders in manifest.json, PRIVACY.md, README.md, and this file
+- [ ] Replace all `fdebkowski` placeholders in manifest.json, PRIVACY.md, README.md, and this file
 - [ ] Push code to a public GitHub repo
 - [ ] Confirm privacy policy URL is publicly accessible
 - [ ] Capture at least 1 screenshot (1280×800 or 640×400)

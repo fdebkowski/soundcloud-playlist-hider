@@ -4,7 +4,7 @@
   "short_name": "SC Playlist Hider",
   "version": "1.0.0",
   "description": "Declutter your SoundCloud feed by hiding 'posted a playlist' activity. Toggle on/off anytime from the toolbar.",
-  "homepage_url": "https://github.com/rewoniasty/soundcloud-playlist-hider",
+  "homepage_url": "https://github.com/fdebkowski/soundcloud-playlist-hider",
   "minimum_chrome_version": "102",
   "permissions": ["storage"],
   "host_permissions": ["https://soundcloud.com/*"],

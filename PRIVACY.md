@@ -32,4 +32,4 @@ The extension saves a single boolean preference (whether hiding is enabled or di
 ## Contact
 
 This extension is open source. If you have questions or concerns, please open an issue at:  
-https://github.com/rewoniasty/soundcloud-playlist-hider/issues
+https://github.com/fdebkowski/soundcloud-playlist-hider/issues
